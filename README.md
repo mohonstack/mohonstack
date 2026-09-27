@@ -43,11 +43,16 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 ---
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
-|                                                               GitHub Stats                                                              |                                                                    Most Used Languages                                                                   |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api?username=mohammadmohon417-hue&show_icons=true&theme=default" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmohon417-hue&layout=compact&theme=default" alt="Most Used Languages" /> |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadmohon417-hue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmohon417-hue&layout=compact&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
 
 
 ---
